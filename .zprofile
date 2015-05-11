@@ -1,4 +1,4 @@
-# Copyright Fabian Grunau
+# First Editor Fabian Grunau
 # Startup File with defult Settings
 
 # Default Applications
